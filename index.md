@@ -55,18 +55,18 @@
 - X. Lu, S. Matsuda, M. Unoki, S. Nakamura, “Temporal modulation contrast normalization and edge-preserved smoothing for robust speech recognition,” Elsevier, Speech Communication, vol. 52, no. 1, pp. 1-11, 2010.
 - X. Lu, J. Dang, “An investigation of dependencies between frequency components and speaker characteristics for text independent speaker identification,” Elsevier, Speech Communication, vol. 50, no. 4, pp. 312–322, 2008.
 ## 科研費
-- 研究代表
-  研究期間 (年度)2019 – 2021
-  研究種目基盤研究(C): Construction of a computational model to deal with the cocktail-party problem for intelligent speech interface
-- 研究代表
-  研究期間 (年度)2010 – 2011
-  研究種目若手研究(B): Hilbert再生核空間の正規法による頑健音声処理
-- 研究代表
-  研究期間 (年度)2006 – 2007
-  研究種目若手研究(B): 発話状態と音声空間の固有幾何学的関係の研究
-- 研究分担
-  研究期間 (年度)2005 – 2007
-  研究種目基盤研究(B): 発話運動シミュレータを用いた発話障害予測および発話訓練支援システムの研究
-- 研究分担
-  研究期間 (年度)2004 – 2006
-  研究種目基盤研究(B): 音声コミュニケーションにおける知覚と生成の相互作用に関する研究  
+- 研究代表,
+  研究期間 (年度)2019 – 2021,
+  研究種目基盤研究(C): Construction of a computational model to deal with the cocktail-party problem for intelligent speech interface.
+- 研究代表,
+  研究期間 (年度)2010 – 2011,
+  研究種目若手研究(B): Hilbert再生核空間の正規法による頑健音声処理.
+- 研究代表,
+  研究期間 (年度)2006 – 2007,
+  研究種目若手研究(B): 発話状態と音声空間の固有幾何学的関係の研究.
+- 研究分担,
+  研究期間 (年度)2005 – 2007,
+  研究種目基盤研究(B): 発話運動シミュレータを用いた発話障害予測および発話訓練支援システムの研究.
+- 研究分担,
+  研究期間 (年度)2004 – 2006,
+  研究種目基盤研究(B): 音声コミュニケーションにおける知覚と生成の相互作用に関する研究.  
