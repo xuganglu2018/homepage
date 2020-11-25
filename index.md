@@ -54,7 +54,7 @@
 - X. Lu, J. Dang, “Vowel production manifold: intrinsic factor analysis of vowel articulation,” IEEE Trans. on Audio, Speech, and Language Processing,vol 18, no. 5, pp. 1053-1062, 2010.
 - X. Lu, S. Matsuda, M. Unoki, S. Nakamura, “Temporal modulation contrast normalization and edge-preserved smoothing for robust speech recognition,” Elsevier, Speech Communication, vol. 52, no. 1, pp. 1-11, 2010.
 - X. Lu, J. Dang, “An investigation of dependencies between frequency components and speaker characteristics for text independent speaker identification,” Elsevier, Speech Communication, vol. 50, no. 4, pp. 312–322, 2008.
-## 
+## 科研費
 - 研究代表
   研究期間 (年度)2019 – 2021
   研究種目基盤研究(C): Construction of a computational model to deal with the cocktail-party problem for intelligent speech interface
