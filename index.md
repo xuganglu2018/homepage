@@ -1,0 +1,56 @@
+# Xugang Lu (卢绪刚)
+主任研究員 @ 国立研究開発法人 情報通信研究機構
+
+- 現在は日本情報通信研究機構で音声技術関連の研究仕事に従事
+
+- 研究興味: 音声技術関連の研究、特に音声認識、機械学習に関する.
+
+- 連絡: xugang dot lu at nict　dot go dot jp
+
+
+
+## 研究経歴
+- 2017~ , 同志社大学 (Doshisha University), 客員教授.
+
+- 2009~ , 国立研究開発法人 情報通信研究機構, 専攻研究員/主任研究員.
+
+- 2008-2009 ATR 音声コミュニケーション研究所, 主任研究員.
+
+- 2003-2008 北陸先端科学技術大学院大学, 助教 (assistant professor).
+
+- 2001-2002 McMaster University, Canada, Postdoc fellow.
+
+- 1999-2001 Nanyang Technological University, Singapore, Research fellow.
+
+- 1999 中国科学院自動化研究所, 知能科学専攻修了,博士(工学).
+
+- 1990-1996 哈爾濱工業大学, 電気工学と計算機科学専攻修了, 学士, 修士.
+
+
+
+## 受賞
+- 中国科学院, 院長優秀賞表彰, 1999.
+
+- 日本情報通信研究機構, 成績優秀表彰, 2015.
+
+
+
+## 近年研究発表
+- T. Hsieh, H. Wang, X. Lu, Y. Tsao, "WaveCRN: An Efficient Convolutional Recurrent Neural Network for End-to-end Speech Enhancement," IEEE Signal Processing Letters, 2020.
+- C. Yu, R. Zezario, S. Wang, J. Sherman, Y. Hsieh, X. Lu, H. Wang, Y. Tsao, "Improving the Intelligibility of Speech for Simulated Electric and Acoustic Stimulation Using Fully Convolutional Neural Networks," IEEE Trans. on Neural Systems & Rehabilitation Engineering, 2020.
+- C. Yu, R. Zezario, S. Wang, J. Sherman, Y. Hsieh, X. Lu, H. Wang, Y. Tsao, "Speech Enhancement based on Denoising Autoencoder with Multi-branched Encoders," IEEE Transactions on Audio, Speech and Language Processing, vol.28, pp. 2756-2769, 2020.
+- P. Shen, X. Lu, S. Li, H. Kawai, "Knowledge Distillation-based Representation Learning for Short-Utterance Spoken Language Identification," IEEE Trans. Audio, Speech, Language Process, vol. 28, pp.2674-2683, 2020.
+- S. Fu, T. Wang, Y. Tsao, X. Lu, H. Kawai, "End-to-End Waveform Utterance Enhancement for Direct Evaluation Metrics Optimization by Fully Convolutional Neural Networks," IEEE Trans. on Audio, Speech, and Language Processing, 26(9): 1570-1584, 2018.
+- Y. Lai, Y. Tsao, X. Lu, F. Chen, Y. Su, K. Chen, Y. Chen, L. Chen, L. Li, and C. Lee, "Deep Learning based Noise Reduction Approach to Improve Speech Intelligibility for Cochlear Implant Recipients," Ear and hearing, 39(4):795-809, 2018.
+- N. Kanda, X. Lu, H. Kawai, "Maximum A Posteriori based Decoding for End-to-End Acoustic Models," IEEE Trans. on Audio, Speech, and Language Processing, vol.25, no. 5, pp.1023-1034, 2017.
+- X. Lu, P. Shen, Y. Tsao, H. Kawai, "Regularization of neural network model with distance metric learning for i-vector based spoken language identification," Computer Speech & Language, vol.44, pp. 48-60, 2017.
+- Y. Lai, F. Chen, S. Wang, X. Lu, Y. Tsao, C. Lee, "A Deep Denoising Autoencoder Approach to Improving the Intelligibility of Vocoded Speech in Cochlear Implantation," IEEE Trans. on Biomedical Engineering, vol. 64, no. 7, pp. 1568-1578, 2017.
+- P. Shen, X. Lu, X. Hu, N. Kanda, M. Saiko, C. Hori, H. Kawai, "Combination of multiple acoustic models with unsupervised adaptation for lecture speech transcription," Elsevier, Speech Communication, vol.82, pp. 1-13, Sep, 2016.
+- S. Wang, A. Chern, Y. Tsao, J. Hung, X. Lu, Y. Lai, B. Su, "Wavelet speech enhancement based on nonnegative matrix factorization," IEEE signal processing letter, vol. 23, no. 8, pp. 1101-1105, 2016.
+- Y. Tsao, P. Lin, T. Hu, X. Lu, "Ensemble environment modeling using affine transform group," Elsevier, Speech Communication, vol. 68, pp. 55-68, 2015.
+- Y. Tsao, X. Lu, P. Dixon, T. Hu, S. Matsuda, C. Hori, "Incorporating Local Information of the Acoustic Environments to MAP-based Feature Compensation and Acoustic Model Adaptation, " Elsevier, Computer Speech and Language, vol. 28, no. 3, pp. 709-726, 2014.
+- X. Lu, M. Unoki, S. Matsuda, C. Hori, H. Kashioka, "Controlling tradeoff between approximation accuracy and complexity of a smooth function in a reproducing kernel Hilbert space for noise reduction," IEEE Trans. on Signal Processing, vol. 61, no. 3, pp. 601-610, 2013.
+- X. Lu, M. Unoki, S. Nakamura, “Subband temporal modulation envelopes and their normalization for automatic speech recognition in reverberant environments,” Elsevier, Computer Speech and Language, vol. 25, no. 3, pp. 571-584, 2011.
+- X. Lu, J. Dang, “Vowel production manifold: intrinsic factor analysis of vowel articulation,” IEEE Trans. on Audio, Speech, and Language Processing,vol 18, no. 5, pp. 1053-1062, 2010.
+- X. Lu, S. Matsuda, M. Unoki, S. Nakamura, “Temporal modulation contrast normalization and edge-preserved smoothing for robust speech recognition,” Elsevier, Speech Communication, vol. 52, no. 1, pp. 1-11, 2010.
+- X. Lu, J. Dang, “An investigation of dependencies between frequency components and speaker characteristics for text independent speaker identification,” Elsevier, Speech Communication, vol. 50, no. 4, pp. 312–322, 2008.
