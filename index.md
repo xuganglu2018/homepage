@@ -16,7 +16,7 @@
 
 - 2008-2009 ATR 音声コミュニケーション研究所, 主任研究員.
 
-- 2003-2008 北陸先端科学技術大学院大学, 助教 (assistant professor).
+- 2003-2008 北陸先端科学技術大学院大学, 助教.
 
 - 2001-2002 McMaster University, Canada, Postdoc fellow.
 
