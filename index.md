@@ -44,6 +44,7 @@
 
 
 ## 近年研究発表
+- X. Lu, P. Shen, Y. Tsao, H. Kawai, "Coupling a generative model with a discriminative learning framework for speaker verification," IEEE/ACM Transactions on Audio, Speech and Language Processing, DOI：10.1109/TASLP.2021.3129360, 2021.
 - C. Yu, R. Zezario, S. Wang, J. Sherman, Y. Hsieh, X. Lu, H. Wang, Y. Tsao, "Improving the Intelligibility of Speech for Simulated Electric and Acoustic Stimulation Using Fully Convolutional Neural Networks," IEEE Trans. on Neural Systems and Rehabilitation Engineering, vol. 29, pp. 184-195, 2021.
 - T. Hsieh, H. Wang, X. Lu, Y. Tsao, "WaveCRN: An Efficient Convolutional Recurrent Neural Network for End-to-end Speech Enhancement," IEEE Signal Processing Letters, vol. 27, pp. 2149-2153, 2020.
 - C. Yu, R. Zezario, S. Wang, J. Sherman, Y. Hsieh, X. Lu, H. Wang, Y. Tsao, "Speech Enhancement based on Denoising Autoencoder with Multi-branched Encoders," IEEE Transactions on Audio, Speech and Language Processing, vol.28, pp. 2756-2769, 2020.
