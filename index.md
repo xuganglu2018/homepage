@@ -29,21 +29,16 @@
 
 
 ## 受賞
+- IEEE Signal Processing Society young author best paper award (S. Fu, T. Wang, Y. Tsao, X. Lu, H. Kawai), 2021.
+- INTERSPEECH 2020で, short duration speaker verification challenge、準優勝, 2020.
+- 日本情報通信研究機構, 成績優秀表彰, 2015.
+- 国際ワークショップIWSLT14における英語音声認識、優勝, 2014.
+- 国際ワークショップIWSLT13における英語音声認識、優勝, 2013.
+- 国際ワークショップIWSLT12における英語音声認識、優勝, 2012.
 - 中国科学院, 院長優秀賞表彰, 1999.
 
-- 国際ワークショップIWSLT12における英語音声認識、優勝, 2012.
-
-- 国際ワークショップIWSLT13における英語音声認識、優勝, 2013.
-
-- 国際ワークショップIWSLT14における英語音声認識、優勝, 2014.
-
-- 日本情報通信研究機構, 成績優秀表彰, 2015.
-
-- INTERSPEECH 2020で, short duration speaker verification challenge、準優勝, 2020.
-
-- IEEE Signal Processing Society young author best paper award (S. Fu, T. Wang, Y. Tsao, X. Lu, H. Kawai), 2021.
-
-
+## Totorials
+X. Lu, Y. Tsao, Optimal transport (OT) in speech: OT meets speech, INTERSPEECH 2024. (sending email for slides)
 
 ## 近年研究発表
 - T. Hussain, W. Wang, M. Gogate, K. Dashtipour, Y. Tsao, X. Lu, A. Ahsan, and A. Hussain, "A Novel Temporal Attentive-Pooling based Convolutional Recurrent Architecture for Acoustic Signal Enhancement," IEEE Transactions on Artificial Intelligence, vol. 1, pp. 1-12, 2022.
