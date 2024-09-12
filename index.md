@@ -36,7 +36,7 @@
 - 中国科学院, 院長優秀賞表彰, 1999.
 
 ## Totorials
-X. Lu, Y. Tsao, Optimal transport (OT) in speech: OT meets speech, INTERSPEECH 2024. ([IS2024Aug31.pdf](https://github.com/user-attachments/files/16971878/IS2024Aug31.pdf) or sending email for slides)
+X. Lu, Y. Tsao, Optimal transport (OT) in speech: OT meets speech, INTERSPEECH 2024. (sending email for slides)
 
 ## 近年研究発表
 - T. Hussain, W. Wang, M. Gogate, K. Dashtipour, Y. Tsao, X. Lu, A. Ahsan, and A. Hussain, "A Novel Temporal Attentive-Pooling based Convolutional Recurrent Architecture for Acoustic Signal Enhancement," IEEE Transactions on Artificial Intelligence, vol. 1, pp. 1-12, 2022.
