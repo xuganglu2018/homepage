@@ -5,7 +5,7 @@
 
 - 研究興味: 音声の意味を理解する, 特に音声認識、音声技術関連の研究, 信号処理と機械学習理論に関する.
 
-- 連絡: xugang dot lu at nict　dot go dot jp
+- 連絡: xugang dot lu at nict dot go dot jp
 
 
 
@@ -26,8 +26,6 @@
 
 - 1990-1996 哈爾濱工業大学, 電気工学と計算機科学専攻修了, 学士, 修士.
 
-
-
 ## 受賞
 - IEEE Signal Processing Society young author best paper award (S. Fu, T. Wang, Y. Tsao, X. Lu, H. Kawai), 2021.
 - INTERSPEECH 2020で, short duration speaker verification challenge、準優勝, 2020.
@@ -38,7 +36,8 @@
 - 中国科学院, 院長優秀賞表彰, 1999.
 
 ## Totorials
-X. Lu, Y. Tsao, Optimal transport (OT) in speech: OT meets speech, INTERSPEECH 2024. (sending email for slides)
+X. Lu, Y. Tsao, Optimal transport (OT) in speech: OT meets speech[IS2024Aug31.pdf](https://github.com/user-attachments/files/16971878/IS2024Aug31.pdf)
+, INTERSPEECH 2024. (or sending email for slides)
 
 ## 近年研究発表
 - T. Hussain, W. Wang, M. Gogate, K. Dashtipour, Y. Tsao, X. Lu, A. Ahsan, and A. Hussain, "A Novel Temporal Attentive-Pooling based Convolutional Recurrent Architecture for Acoustic Signal Enhancement," IEEE Transactions on Artificial Intelligence, vol. 1, pp. 1-12, 2022.
