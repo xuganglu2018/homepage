@@ -35,7 +35,7 @@
 - 国際ワークショップIWSLT12における英語音声認識、優勝, 2012.
 - 中国科学院, 院長優秀賞表彰, 1999.
 
-## Totorials
+## Tutorials
 X. Lu, Y. Tsao, Optimal transport (OT) in speech: OT meets speech, INTERSPEECH 2024. ([IS2024Aug31.pdf](https://github.com/user-attachments/files/16972456/IS2024Aug31.pdf)
 or sending email for slides)
 
