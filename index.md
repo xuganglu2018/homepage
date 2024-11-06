@@ -41,11 +41,11 @@ or sending email for slides)
 
 ## 近年研究発表
 - X. Ma, R. Zhang, J. Wei, X. Lu, J. Xu, W. Lu, "Self-distillation-based domain exploration for cross-voice-transfer attacker verification,"Speech Communication, 2024.
-- R. Zhang, J Wei, X. Lu, et al., "Optimal Transport with Class Structure Exploration for Cross-Domain Speech Emotion Recognition,"IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.
+- R. Zhang, J. Wei, X. Lu, et al., "Optimal Transport with Class Structure Exploration for Cross-Domain Speech Emotion Recognition,"IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.
 - H. Zhang, W. Lu, J. Wei, X. Huang, X. Yang, X. Lu,"Efficient Singular Spectrum Mode Ensemble for Extracting Wide-Band Components in Overlapping Spectral Environments," IEEE Transactions on Signal Processing, 2024.
-- R. Zhang, J Wei, X. Lu, et al., "Unsupervised Adaptive Speaker Recognition by Coupling-Regularized Optimal Transport,"IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.
-- R. Zhang, J Wei, X. Lu, et al., "Self-supervised learning based domain regularization for mask-wearing speaker verification," Speech Communication, vol. 152, 2023.
-- R. Zhang, J Wei, X. Lu, et al., "TMS: Temporal multi-scale in time-delay neural network for speaker verification," Applied Intelligence, vol. 53(22), 2023.
+- R. Zhang, J. Wei, X. Lu, et al., "Unsupervised Adaptive Speaker Recognition by Coupling-Regularized Optimal Transport,"IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.
+- R. Zhang, J. Wei, X. Lu, et al., "Self-supervised learning based domain regularization for mask-wearing speaker verification," Speech Communication, vol. 152, 2023.
+- R. Zhang, J. Wei, X. Lu, et al., "TMS: Temporal multi-scale in time-delay neural network for speaker verification," Applied Intelligence, vol. 53(22), 2023.
 - T. Hussain, W. Wang, M. Gogate, K. Dashtipour, Y. Tsao, X. Lu, A. Ahsan, and A. Hussain, "A Novel Temporal Attentive-Pooling based Convolutional Recurrent Architecture for Acoustic Signal Enhancement," IEEE Transactions on Artificial Intelligence, vol. 1, pp. 1-12, 2022.
 - X. Lu, P. Shen, Y. Tsao, H. Kawai, "Coupling a generative model with a discriminative learning framework for speaker verification," IEEE/ACM Transactions on Audio, Speech and Language Processing, vol 29, pp. 3631-3641, 2021.
 - C. Yu, R. Zezario, S. Wang, J. Sherman, Y. Hsieh, X. Lu, H. Wang, Y. Tsao, "Improving the Intelligibility of Speech for Simulated Electric and Acoustic Stimulation Using Fully Convolutional Neural Networks," IEEE Trans. on Neural Systems and Rehabilitation Engineering, vol. 29, pp. 184-195, 2021.
