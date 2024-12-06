@@ -41,6 +41,8 @@ or sending email for slides)
 
 ## 近年研究発表
 - X. Ma, R. Zhang, J. Wei, X. Lu, J. Xu, W. Lu, "Self-distillation-based domain exploration for cross-voice-transfer attacker verification,"Speech Communication, 2024.
+- Y. Li, J. Wei, Q. Fang, K. Xu, R. Zhang, X. Lu, "An Evaluation Framework for An Ultrasound Imaging-based Articulatory Observation Instrument," IEEE Transactions on Instrumentation & Measurement, 2024.
+- W. Yang, J. Wei, W. Lu, L.Li, X. Lu, "Robust Channel Learning for Large-Scale Radio Speaker Verification," IEEE Journal of Selected Topics in Signal Processing, 2024.
 - R. Zhang, J. Wei, X. Lu, et al., "Optimal Transport with Class Structure Exploration for Cross-Domain Speech Emotion Recognition,"IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.
 - H. Zhang, W. Lu, J. Wei, X. Huang, X. Yang, X. Lu,"Efficient Singular Spectrum Mode Ensemble for Extracting Wide-Band Components in Overlapping Spectral Environments," IEEE Transactions on Signal Processing, 2024.
 - R. Zhang, J. Wei, X. Lu, et al., "Unsupervised Adaptive Speaker Recognition by Coupling-Regularized Optimal Transport,"IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.
