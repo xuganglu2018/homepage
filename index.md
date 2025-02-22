@@ -28,7 +28,7 @@
 
 ## 学会および社会における活動
 - IEEE senior member
-- Vice chair APSIPA SLA technical committees (2023-2024)
+- Vice chair, APSIPA SLA technical committees (2023-2024)
 - Assoicate editor, IEEE/ACM Transactions on Audio, Speech and Language Processing
 - Associate editor, IEICE transactions on communications
 - Session chairs, meta reviewer/reviewer, ICASSP, INTERSPEECH, ASRU, SLT, ISCSLP, etc.
