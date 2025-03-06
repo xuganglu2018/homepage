@@ -12,7 +12,7 @@
 ## 研究経歴
 - 2009~ , 国立研究開発法人 情報通信研究機構, 専攻研究員/主任研究員.
 
-- 2017~2023 , 同志社大学 (Doshisha University), 客員教授.
+- 2017~2023 , 同志社大学 (Doshisha University), 連携大学院教授.
  
 - 2008-2009 ATR 音声コミュニケーション研究所, 主任研究員.
 
@@ -31,7 +31,7 @@
 - Vice chair, APSIPA SLA technical committees (2023-2024)
 - Associate editor, IEEE/ACM Transactions on Audio, Speech and Language Processing
 - Associate editor, IEICE transactions on communications
-- Session chairs, meta reviewer/reviewer, ICASSP, INTERSPEECH, ASRU, SLT, APSIPA,ISCSLP, etc.
+- Committee members, session chairs, meta reviewer/reviewer, ICASSP, INTERSPEECH, ASRU, SLT, APSIPA,ISCSLP, etc.
    
 ## 受賞
 - IEEE Signal Processing Society young author best paper award (S. Fu, T. Wang, Y. Tsao, X. Lu, H. Kawai), 2021.
