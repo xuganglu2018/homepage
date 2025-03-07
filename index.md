@@ -76,7 +76,7 @@ or sending email for slides)
 - X. Lu, S. Matsuda, M. Unoki, S. Nakamura, “Temporal modulation contrast normalization and edge-preserved smoothing for robust speech recognition,” Elsevier, Speech Communication, vol. 52, no. 1, pp. 1-11, 2010.
 - X. Lu, J. Dang, “An investigation of dependencies between frequency components and speaker characteristics for text independent speaker identification,” Elsevier, Speech Communication, vol. 50, no. 4, pp. 312–322, 2008.
 ## 科研費と補助金
-研究分担,
+- 研究分担,
   研究期間 (年度) 2024 – 2027,
   研究種目.基盤研究 (C): An investigation of generative acoustic latent representations for meeting speech recognition and summarization.
 - 研究代表,
