@@ -43,7 +43,7 @@
 - 中国科学院, 院長優秀賞表彰, 1999.
 
 ## Tutorials
-X. Lu, Y. Tsao, Optimal transport (OT) in speech: OT meets speech, INTERSPEECH 2024. ([IS2024Aug31.pdf](https://github.com/user-attachments/files/16972456/IS2024Aug31.pdf)
+- X. Lu, Y. Tsao, Optimal transport (OT) in speech: OT meets speech, INTERSPEECH 2024. ([IS2024Aug31.pdf](https://github.com/user-attachments/files/16972456/IS2024Aug31.pdf)
 or sending email for slides)
 
 ## 近年研究発表
