@@ -47,12 +47,15 @@
 or sending email for slides)
 
 ## 近年研究発表
-- X. Ma, R. Zhang, J. Wei, X. Lu, et al., "Self-distillation-based domain exploration for cross-voice-transfer attacker verification,"Speech Communication, 2024.
-- Y. Li, J. Wei, Q. Fang, K. Xu, R. Zhang, X. Lu, "An Evaluation Framework for An Ultrasound Imaging-based Articulatory Observation Instrument," IEEE Transactions on Instrumentation & Measurement, 2024.
+- R. Zhang, J. Wei, X. Lu, L. Zhang, D. Jin, W. Lu, J. Xu, "Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing," IEEE Transactions on Audio, Speech, and Language Processing, 2025.
+- R. Zhang, J. Wei, X. Lu, L. Zhang, D. Jin, J. Xu, W. Lu, "SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing," IEEE Transactions on Information Forensics & Security, 2025. 
+- R. Zhang, J. Wei, X. Lu, Y. Li, W. Lu, L. Zhang, J. Xu, "An adaptation framework with unified embedding reconstruction for cross-corpus speech emotion recognition," Applied Soft Computing, vol. 174, 2025.
+- X. Ma, R. Zhang, J. Wei, X. Lu, J. Xu, L. Zhang, W. Lu "Self-distillation-based domain exploration for cross-voice-transfer attacker verification," Speech Communication, 2025.
+- Y. Li, J. Wei, Q. Fang, K. Xu, R. Zhang, X. Lu, "An Evaluation Framework for An Ultrasound Imaging-based Articulatory Observation Instrument," IEEE Transactions on Instrumentation & Measurement, 2025.
 - W. Yang, J. Wei, W. Lu, L. Li, X. Lu, "Robust Channel Learning for Large-Scale Radio Speaker Verification," IEEE Journal of Selected Topics in Signal Processing, 2024.
-- R. Zhang, J. Wei, X. Lu, et al., "Optimal Transport with Class Structure Exploration for Cross-Domain Speech Emotion Recognition,"IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.
-- H. Zhang, W. Lu, J. Wei, X. Huang, X. Yang, X. Lu,"Efficient Singular Spectrum Mode Ensemble for Extracting Wide-Band Components in Overlapping Spectral Environments," IEEE Transactions on Signal Processing, 2024.
-- R. Zhang, J. Wei, X. Lu, et al., "Unsupervised Adaptive Speaker Recognition by Coupling-Regularized Optimal Transport,"IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.
+- R. Zhang, J. Wei, X. Lu, et al., "Optimal Transport with Class Structure Exploration for Cross-Domain Speech Emotion Recognition," IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.
+- H. Zhang, W. Lu, J. Wei, X. Huang, X. Yang, X. Lu, "Efficient Singular Spectrum Mode Ensemble for Extracting Wide-Band Components in Overlapping Spectral Environments," IEEE Transactions on Signal Processing, 2024.
+- R. Zhang, J. Wei, X. Lu, et al., "Unsupervised Adaptive Speaker Recognition by Coupling-Regularized Optimal Transport," IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.
 - R. Zhang, J. Wei, X. Lu, et al., "Self-supervised learning based domain regularization for mask-wearing speaker verification," Speech Communication, vol. 152, 2023.
 - R. Zhang, J. Wei, X. Lu, et al., "TMS: Temporal multi-scale in time-delay neural network for speaker verification," Applied Intelligence, vol. 53(22), 2023.
 - T. Hussain, W. Wang, M. Gogate, K. Dashtipour, Y. Tsao, X. Lu, A. Ahsan, and A. Hussain, "A Novel Temporal Attentive-Pooling based Convolutional Recurrent Architecture for Acoustic Signal Enhancement," IEEE Transactions on Artificial Intelligence, vol. 1, pp. 1-12, 2022.
