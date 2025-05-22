@@ -47,7 +47,7 @@
 or sending email for slides)
 
 ## 近年研究発表
-#- R. Zhang, J. Wei, X. Lu, L. Zhang, D. Jin, W. Lu, J. Xu, "Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing," #IEEE Transactions on Audio, Speech, and Language Processing, 2025.
+%- R. Zhang, J. Wei, X. Lu, L. Zhang, D. Jin, W. Lu, J. Xu, "Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing," %IEEE Transactions on Audio, Speech, and Language Processing, 2025.
 - R. Zhang, J. Wei, X. Lu, L. Zhang, D. Jin, J. Xu, W. Lu, "SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing," IEEE Transactions on Information Forensics & Security, 2025. 
 - R. Zhang, J. Wei, X. Lu, Y. Li, W. Lu, L. Zhang, J. Xu, "An adaptation framework with unified embedding reconstruction for cross-corpus speech emotion recognition," Applied Soft Computing, vol. 174, 2025.
 - X. Ma, R. Zhang, J. Wei, X. Lu, J. Xu, L. Zhang, W. Lu "Self-distillation-based domain exploration for cross-voice-transfer attacker verification," Speech Communication, 2025.
