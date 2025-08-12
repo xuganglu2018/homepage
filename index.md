@@ -46,7 +46,7 @@
 
 ## Tutorials
 - X. Lu, Y. Tsao, Optimal transport (OT) in speech: OT meets speech, ISCA-INTERSPEECH 2024. ([IS2024Aug31.pdf](https://github.com/user-attachments/files/16972456/IS2024Aug31.pdf) or sending email for slides)
-- X. Lu, Y. Tsao, Bridging the domain and modality gaps of speech based on optimal transport, IEEE-ASRU 2025. (will be available after the workshop)
+<!---- - X. Lu, Y. Tsao, Bridging the domain and modality gaps of speech based on optimal transport, IEEE-ASRU 2025. (will be available after the workshop)--->
 
 ## 近年研究発表
 <!---- R. Zhang, J. Wei, X. Lu, L. Zhang, D. Jin, W. Lu, J. Xu, "Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing," IEEE Transactions on Audio, Speech, and Language Processing, 2025.--->
