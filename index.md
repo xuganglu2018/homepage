@@ -50,8 +50,10 @@
 (will be available after the workshop)
 
 ## 近年研究発表
+- H. Sun, X. Lu, J. Tian, J. Zhou, J. He, H. Wang, X. Kong, X. Hu, Y. Qin, "Progressive Learning Framework With Missing Modality Reconstruction for Multimodal Emotion
+Recognition," IEEE Transactions on Audio, Speech, and Language Processing, 2025.
 - H. Shi, X. Lu, K. Shimada, T. Kawahara, "Combining Deterministic Enhanced Conditions with Dual-Streaming Encoding for Diffusion-Based Speech Enhancement," IEEE Transactions on Audio, Speech, and Language Processing, 2025.
-- R. Zhang, X. Chen, W. Lu, J. Xu, J. wei, "UDA-SD: Unsupervised domain adaptation based on self-distillation for cross-domain audio anti-spoofing," Applied Soft Computing, 2025.
+- R. Zhang, X. Chen, W. Lu, X. Lu, J. Xu, J. Wei, "UDA-SD: Unsupervised domain adaptation based on self-distillation for cross-domain audio anti-spoofing," Applied Soft Computing, 2025.
 - R. Zhang, J. Wei, X. Lu, L. Zhang, D. Jin, W. Lu, J. Xu, "Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing," IEEE Transactions on Audio, Speech, and Language Processing, 2025.
 - R. Zhang, J. Wei, X. Lu, L. Zhang, D. Jin, J. Xu, W. Lu, "SHDA: Sinkhorn Domain Attention for Cross-Domain Audio Anti-Spoofing," IEEE Transactions on Information Forensics & Security, 2025. 
 - R. Zhang, J. Wei, X. Lu, Y. Li, W. Lu, L. Zhang, J. Xu, "An adaptation framework with unified embedding reconstruction for cross-corpus speech emotion recognition," Applied Soft Computing, vol. 174, 2025.
