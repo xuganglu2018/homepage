@@ -47,7 +47,8 @@
 ## Tutorials
 - X. Lu, Y. Tsao, Optimal transport (OT) in speech: OT meets speech, ISCA-INTERSPEECH 2024, https://interspeech2024.org/tutorials ([IS2024_Tutorial_Slides.pdf](https://github.com/user-attachments/files/16972456/IS2024Aug31.pdf))
 - X. Lu, Y. Tsao, Bridging the domain and modality gaps of speech based on optimal transport, IEEE-ASRU 2025, https://2025.ieeeasru.org/program/tutorials
-(will be available after the workshop)
+  ([ASRU2025TutorialLu.pdf](https://github.com/user-attachments/files/24015409/ASRU2025TutorialLu.pdf)
+)
 
 ## 近年研究発表
 - H. Sun, X. Lu, J. Tian, J. Zhou, J. He, H. Wang, X. Kong, X. Hu, Y. Qin, "Progressive Learning Framework With Missing Modality Reconstruction for Multimodal Emotion
