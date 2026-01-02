@@ -51,8 +51,9 @@
 )
 
 ## 近年研究発表
-- H. Sun, X. Lu, J. Tian, J. Zhou, J. He, H. Wang, X. Kong, X. Hu, Y. Qin, "Progressive Learning Framework With Missing Modality Reconstruction for Multimodal Emotion
-Recognition," IEEE Transactions on Audio, Speech, and Language Processing, 2025.
+- R. Zhang, J. Wei, W. Lu, L.Li, X. Lu, "Domain Adaptation for Speaker Verification Using Optimal Transport with Pseudo Label," IEEE Transactions on Information Forensics & Security, 2026.
+-  Y. Li, J. Wei, Q. Fang, K. Xu, X. Lu, "A Novel UTI Plane Stability Calibration and Compensation Method Based on Skull Structural Relationships for Articulatory Data Observation," IEEE Transactions on Instrumentation & Measurement, 2026.
+- H. Sun, X. Lu, J. Tian, J. Zhou, J. He, H. Wang, X. Kong, X. Hu, Y. Qin, "Progressive Learning Framework With Missing Modality Reconstruction for Multimodal Emotion Recognition," IEEE Transactions on Audio, Speech, and Language Processing, 2025.
 - H. Shi, X. Lu, K. Shimada, T. Kawahara, "Combining Deterministic Enhanced Conditions with Dual-Streaming Encoding for Diffusion-Based Speech Enhancement," IEEE Transactions on Audio, Speech, and Language Processing, 2025.
 - R. Zhang, X. Chen, W. Lu, X. Lu, J. Xu, J. Wei, "UDA-SD: Unsupervised domain adaptation based on self-distillation for cross-domain audio anti-spoofing," Applied Soft Computing, 2025.
 - R. Zhang, J. Wei, X. Lu, L. Zhang, D. Jin, W. Lu, J. Xu, "Multi-Sinkhorn Teacher Knowledge Aggregation Framework for Adaptive Audio Anti-Spoofing," IEEE Transactions on Audio, Speech, and Language Processing, 2025.
