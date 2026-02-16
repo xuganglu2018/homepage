@@ -29,11 +29,12 @@
 - 1990-1996 哈爾濱工業大学, 電気工学と計算機科学専攻修了, 学士, 修士.
 
 ## 学会および社会における活動
-- IEEE senior member
+- IEEE senior member, ISCA, ASJ
 - Vice chair, APSIPA SLA technical committees (2023-2024)
-- Associate editor, IEEE/ACM Transactions on Audio, Speech and Language Processing
-- Associate editor, IEICE transactions on communications
-- Committee members, session chairs, meta reviewer/reviewer, ICASSP, INTERSPEECH, ASRU, SLT, APSIPA,ISCSLP, etc.
+- Secretary, APSIPA SLA technical committees (2022-2023)
+- Associate editor, IEEE/ACM Transactions on Audio, Speech and Language Processing (2025-2028)
+- Associate editor, IEICE transactions on communications (2016-2020)
+- Committee member, session chair, meta reviewer/reviewer, ICASSP, INTERSPEECH, ASRU, SLT, APSIPA,ISCSLP, etc.
    
 ## 受賞
 - IEEE Signal Processing Society young author best paper award (S. Fu, T. Wang, Y. Tsao, X. Lu, H. Kawai), 2021.
