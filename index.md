@@ -29,7 +29,7 @@
 - 1990-1996 哈爾濱工業大学, 電気工学と計算機科学専攻修了, 学士, 修士.
 
 ## 学会および社会における活動
-- IEEE senior member, ISCA, ASJ
+- IEEE senior member, ISCA, ASJ.
 - Vice chair, APSIPA SLA technical committees (2023-2024)
 - Secretary, APSIPA SLA technical committees (2022-2023)
 - Associate editor, IEEE/ACM Transactions on Audio, Speech and Language Processing (2025-2028)
