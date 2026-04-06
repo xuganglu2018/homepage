@@ -34,7 +34,7 @@
 - Secretary, APSIPA SLA technical committees (2022-2023)
 - Associate editor, IEEE/ACM Transactions on Audio, Speech and Language Processing (2025-2028)
 - Associate editor, IEICE transactions on communications (2016-2020)
-- Committee member, session chair, meta reviewer/reviewer, ICASSP, INTERSPEECH, ASRU, SLT, APSIPA,ISCSLP, etc.
+- Committee member, area chair, session chair, meta reviewer/reviewer, ICASSP, INTERSPEECH, ASRU, SLT, APSIPA,ISCSLP, etc.
    
 ## 受賞
 - IEEE Signal Processing Society young author best paper award (S. Fu, T. Wang, Y. Tsao, X. Lu, H. Kawai), 2021.
