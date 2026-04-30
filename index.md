@@ -46,11 +46,11 @@
 - 中国科学院, 院長優秀賞表彰, 1999.
 
 ## Tutorials
-- X. Lu, Y. Tsao, Optimal transport meets speech: A tutorial review, (will be upload on arXiv), 2026. 
-- X. Lu, Y. Tsao, Bridging the domain and modality gaps of speech based on optimal transport, IEEE-ASRU 2025, https://2025.ieeeasru.org/program/tutorials
+- X. Lu, Y. Tsao, "Optimal transport meets speech: A tutorial review," (will be upload on arXiv), 2026. 
+- X. Lu, Y. Tsao, "Bridging the domain and modality gaps of speech based on optimal transport," IEEE-ASRU 2025, https://2025.ieeeasru.org/program/tutorials
   ([ASRU2025TutorialLu.pdf](https://github.com/user-attachments/files/24015409/ASRU2025TutorialLu.pdf)
 )
-- X. Lu, Y. Tsao, Optimal transport (OT) in speech: OT meets speech, ISCA-INTERSPEECH 2024, https://interspeech2024.org/tutorials ([IS2024_Tutorial_Slides.pdf](https://github.com/user-attachments/files/16972456/IS2024Aug31.pdf))
+- X. Lu, Y. Tsao, "Optimal transport (OT) in speech: OT meets speech," ISCA-INTERSPEECH 2024, https://interspeech2024.org/tutorials ([IS2024_Tutorial_Slides.pdf](https://github.com/user-attachments/files/16972456/IS2024Aug31.pdf))
 
 
 ## 近年研究発表
