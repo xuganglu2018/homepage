@@ -46,7 +46,7 @@
 - 中国科学院, 院長優秀賞表彰, 1999.
 
 ## Research link
--This is a link to my pub: https://scholar.google.com/citations?user=0H5TL5wAAAAJ&hl=en
+-This is a link to my Google Scholar: https://scholar.google.com/citations?user=0H5TL5wAAAAJ&hl=en
 
 ## Tutorials
 - X. Lu, Y. Tsao, "Optimal transport meets speech: A tutorial review," (will be upload on arXiv), 2026. 
