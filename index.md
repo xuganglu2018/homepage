@@ -45,6 +45,9 @@
 - 国際ワークショップIWSLT12における英語音声認識、優勝, 2012.
 - 中国科学院, 院長優秀賞表彰, 1999.
 
+## Research link
+-This is a link to my pub: https://scholar.google.com/citations?user=0H5TL5wAAAAJ&hl=en
+
 ## Tutorials
 - X. Lu, Y. Tsao, "Optimal transport meets speech: A tutorial review," (will be upload on arXiv), 2026. 
 - X. Lu, Y. Tsao, "Bridging the domain and modality gaps of speech based on optimal transport," IEEE-ASRU 2025, https://2025.ieeeasru.org/program/tutorials
