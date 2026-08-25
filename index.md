@@ -16,24 +16,24 @@
 
 - 2017~2023 , 同志社大学 (Doshisha University), 連携大学院教授.
  
-- 2008-2009 ATR 音声コミュニケーション研究所, 主任研究員.
+- 2008-2009 , ATR 音声コミュニケーション研究所, 主任研究員.
 
-- 2003-2008 北陸先端科学技術大学院大学, 助教.
+- 2003-2008 , 北陸先端科学技術大学院大学, 助教.
 
-- 2001-2002 McMaster University, Canada, Postdoc fellow.
+- 2001-2002 , McMaster University, Canada, Postdoc fellow.
 
-- 1999-2001 Nanyang Technological University, Singapore, Research fellow.
+- 1999-2001 , Nanyang Technological University, Singapore, Research fellow.
 
-- 1999 中国科学院自動化研究所, 知能科学専攻修了,博士(工学).
+- 1996-1999 , 中国科学院自動化研究所, 知能科学専攻修了,博士.
 
-- 1990-1996 哈爾濱工業大学, 電気工学と計算機科学専攻修了, 学士, 修士.
+- 1990-1996 , 哈爾濱工業大学, 電気工学と計算機科学専攻修了, 学士, 修士.
 
 ## 学会および社会における活動
 - IEEE senior member, ISCA, ASJ.
-- Vice chair, APSIPA SLA technical committees (2023-2024)
-- Secretary, APSIPA SLA technical committees (2022-2023)
-- Associate editor, IEEE/ACM Transactions on Audio, Speech and Language Processing (2025-2028)
-- Associate editor, IEICE transactions on communications (2016-2020)
+- Vice chair, APSIPA SLA technical committees (2023-2024).
+- Secretary, APSIPA SLA technical committees (2022-2023).
+- Associate editor, IEEE/ACM Transactions on Audio, Speech and Language Processing (2025-2028).
+- Associate editor, IEICE transactions on communications (2016-2020).
 - Committee member, area chair, session chair, meta reviewer/reviewer, ICASSP, INTERSPEECH, ASRU, SLT, APSIPA,ISCSLP, etc.
    
 ## 受賞
