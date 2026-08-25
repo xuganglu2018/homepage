@@ -5,7 +5,7 @@
 
 - 研究興味: 音声の意味を理解する, 特に音声認識、音声技術関連の研究, 信号処理と機械学習理論に関する.
 
-- 連絡: xugang dot lu at nict dot go dot jp
+<!- 連絡: xugang dot lu at nict dot go dot jp -->
 
 ## Link to CV
 <!-- -This is a link to CV [CVLuSimpleEn.pdf](https://github.com/user-attachments/files/21029821/CVLuSimpleEn.pdf) -->
