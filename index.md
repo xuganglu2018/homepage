@@ -49,7 +49,7 @@
 Google Scholar: https://scholar.google.com/citations?user=0H5TL5wAAAAJ&hl=en
 
 ## Tutorials
-- X. Lu, Y. Tsao, "Optimal transport meets speech: A tutorial review," (will be upload on arXiv), 2026. 
+- X. Lu, Y. Tsao, "Optimal transport meets speech: A tutorial review," (https://arxiv.org/abs/2609.31787), 2026. 
 - X. Lu, Y. Tsao, "Bridging the domain and modality gaps of speech based on optimal transport," IEEE-ASRU 2025, https://2025.ieeeasru.org/program/tutorials
   ([ASRU2025TutorialLu.pdf](https://github.com/user-attachments/files/24015409/ASRU2025TutorialLu.pdf)
 )
