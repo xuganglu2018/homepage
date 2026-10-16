@@ -57,6 +57,7 @@ Google Scholar: https://scholar.google.com/citations?user=0H5TL5wAAAAJ&hl=en
 
 
 ## 近年研究発表
+- H. Shi, Y. Gao, X. Lu, T. Kawahara, "Beyond Acoustic Prefixes: Persistent Access to Serialized Acoustic Memory for LLM-Based Multi-Talker Speech Recognition," IEEE Transactions on Audio, Speech, and Language Processing, 2026.
 - W. Yang, J. Wei, W. Lu, L. Li, X. Lu, "Domain Adaptation for Speaker Verification Using Optimal Transport with Pseudo Label," IEEE Transactions on Information Forensics & Security, 2026.
 -  Y. Li, J. Wei, Q. Fang, K. Xu, X. Lu, "A Novel UTI Plane Stability Calibration and Compensation Method Based on Skull Structural Relationships for Articulatory Data Observation," IEEE Transactions on Instrumentation & Measurement, 2026.
 - H. Sun, X. Lu, J. Tian, J. Zhou, J. He, H. Wang, X. Kong, X. Hu, Y. Qin, "Progressive Learning Framework With Missing Modality Reconstruction for Multimodal Emotion Recognition," IEEE Transactions on Audio, Speech, and Language Processing, 2025.
